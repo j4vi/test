@@ -4,6 +4,7 @@
 
 <?php
 echo "¡¡My First PHP Script!!";
+echo "uh yeah!!";
 ?>
 
 </body>
