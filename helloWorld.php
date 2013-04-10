@@ -3,6 +3,7 @@
 <body>
 
 <?php
+echo "more 2";
 echo "more modifications on git-test";
 echo "modification in asdf merge test, antest2";
 echo "let's see what happen";
