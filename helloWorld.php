@@ -3,7 +3,8 @@
 <body>
 
 <?php
-echo "other change in cleint";
+echo "mod in server client";
+echo "modification on client branch";
 echo "let's see what happen oh yeah";
 echo "more 2";
 echo "more modifications on git-test";
