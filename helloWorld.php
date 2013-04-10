@@ -3,6 +3,7 @@
 <body>
 
 <?php
+echo "mod in server client";
 echo "modification on client branch";
 echo "let's see what happen oh yeah";
 echo "more 2";
